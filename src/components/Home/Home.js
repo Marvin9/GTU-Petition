@@ -51,7 +51,7 @@ export const Home = () => {
   const processTabs = [
     {
       id: 'automatic_send',
-      name: 'Automatic way',
+      name: 'Simple way',
       content: (
         <MarginWrapper>
           <Process proceedTowardsGood={proceedTowardsGood} />
