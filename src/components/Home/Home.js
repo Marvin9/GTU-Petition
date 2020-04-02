@@ -83,7 +83,7 @@ export const Home = () => {
         size="m"
         onClick={togglePetetion}
       >
-        Read Petetion First
+        Read Petition First
       </EuiButton>
 
       {petetion && <Petetion close={togglePetetion} />}
