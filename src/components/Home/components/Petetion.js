@@ -38,7 +38,7 @@ export const Petetion = ({ close }) => {
       <EuiModalHeader>
         <EuiTitle size="m">
           <h1>
-            Petetion
+            Petition
           </h1>
         </EuiTitle>
       </EuiModalHeader>
@@ -59,7 +59,7 @@ export const Petetion = ({ close }) => {
         <EuiCopy textToCopy={petetion.join('\n')}>
           {(copy) => (
             <EuiButton onClick={copy}>
-              Copy Petetion
+              Copy Petition
             </EuiButton>
           )}
         </EuiCopy>
