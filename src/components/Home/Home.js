@@ -92,7 +92,7 @@ export const Home = () => {
 
       <EuiText>
         <b>
-          Proceed further only if you agree petetion.
+          Proceed further only if you agree petition.
         </b>
       </EuiText>
 

@@ -9,7 +9,7 @@ import PropTypes from 'prop-types';
 export const Process = ({ proceedTowardsGood }) => (
   <>
     <EuiButton onClick={proceedTowardsGood}>
-      Send Petetion to Officials
+      Send Petition to Officials
     </EuiButton>
 
     <EuiSpacer size="s" />
