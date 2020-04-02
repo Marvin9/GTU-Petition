@@ -10,6 +10,16 @@ export default [
     scope: 'all'
   },
   {
+    position: 'BE Section',
+    email: 'be@gtu.edu.in',
+    scope: 'all'
+  },
+  {
+    position: 'GTU Office',
+    email: 'info@gtu.ac.in',
+    scope: 'all'
+  },
+  {
     position: 'Zone officer Ahmedabad',
     email: 'zone01@gtu.edu.in',
     scope: 'ahmedabad'
